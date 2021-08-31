@@ -1,0 +1,22 @@
+python-dotenv # для работы с окружением
+
+# requests~=2.25.1
+# beautifulsoup4
+# lxml  # для парсинга
+# pydantic~=1.8.2
+
+SQLAlchemy
+psycopg2  # драйвер для работы SQLAlchemy с Постгрессом
+
+# aiogram
+# aiohttp~=3.7.4.post0
+# selenium>=4.0.0a7
+httpx
+
+# fake-useragent
+# cfscrape  # для работы парсера и обхода cloudfare
+# cloudscraper # для работы парсера и обхода cloudfare - альтернатива
+
+# pandas
+# openpyxl
+# aiofiles~=0.7.0
